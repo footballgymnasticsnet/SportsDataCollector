@@ -1,0 +1,270 @@
+{
+  "leagues": {
+    "premier_league": {
+      "name": "Premier League",
+      "country": "England",
+      "season": "2024-25",
+      "clubs": [
+        {
+          "id": "arsenal",
+          "name": "Arsenal",
+          "full_name": "Arsenal Football Club",
+          "city": "London",
+          "founded": 1886,
+          "stadium": "Emirates Stadium",
+          "keywords": ["Arsenal", "Gunners", "AFC", "Emirates"],
+          "social_handles": {
+            "twitter": "@Arsenal",
+            "instagram": "arsenal",
+            "reddit": "r/Gunners"
+          }
+        },
+        {
+          "id": "chelsea",
+          "name": "Chelsea",
+          "full_name": "Chelsea Football Club",
+          "city": "London",
+          "founded": 1905,
+          "stadium": "Stamford Bridge",
+          "keywords": ["Chelsea", "Blues", "CFC", "Stamford Bridge"],
+          "social_handles": {
+            "twitter": "@ChelseaFC",
+            "instagram": "chelseafc",
+            "reddit": "r/chelseafc"
+          }
+        },
+        {
+          "id": "liverpool",
+          "name": "Liverpool",
+          "full_name": "Liverpool Football Club",
+          "city": "Liverpool",
+          "founded": 1892,
+          "stadium": "Anfield",
+          "keywords": ["Liverpool", "Reds", "LFC", "Anfield", "YNWA"],
+          "social_handles": {
+            "twitter": "@LFC",
+            "instagram": "liverpoolfc",
+            "reddit": "r/LiverpoolFC"
+          }
+        },
+        {
+          "id": "manchester_city",
+          "name": "Manchester City",
+          "full_name": "Manchester City Football Club",
+          "city": "Manchester",
+          "founded": 1880,
+          "stadium": "Etihad Stadium",
+          "keywords": ["Manchester City", "City", "MCFC", "Etihad", "Citizens"],
+          "social_handles": {
+            "twitter": "@ManCity",
+            "instagram": "mancity",
+            "reddit": "r/MCFC"
+          }
+        },
+        {
+          "id": "manchester_united",
+          "name": "Manchester United",
+          "full_name": "Manchester United Football Club",
+          "city": "Manchester",
+          "founded": 1878,
+          "stadium": "Old Trafford",
+          "keywords": ["Manchester United", "United", "MUFC", "Old Trafford", "Red Devils"],
+          "social_handles": {
+            "twitter": "@ManUtd",
+            "instagram": "manchesterunited",
+            "reddit": "r/reddevils"
+          }
+        },
+        {
+          "id": "tottenham",
+          "name": "Tottenham",
+          "full_name": "Tottenham Hotspur Football Club",
+          "city": "London",
+          "founded": 1882,
+          "stadium": "Tottenham Hotspur Stadium",
+          "keywords": ["Tottenham", "Spurs", "THFC", "Hotspur"],
+          "social_handles": {
+            "twitter": "@SpursOfficial",
+            "instagram": "spursofficial",
+            "reddit": "r/coys"
+          }
+        }
+      ]
+    },
+    "la_liga": {
+      "name": "La Liga",
+      "country": "Spain",
+      "season": "2024-25",
+      "clubs": [
+        {
+          "id": "real_madrid",
+          "name": "Real Madrid",
+          "full_name": "Real Madrid Club de Fútbol",
+          "city": "Madrid",
+          "founded": 1902,
+          "stadium": "Santiago Bernabéu",
+          "keywords": ["Real Madrid", "Madrid", "Los Blancos", "Bernabeu"],
+          "social_handles": {
+            "twitter": "@realmadrid",
+            "instagram": "realmadrid",
+            "reddit": "r/realmadrid"
+          }
+        },
+        {
+          "id": "barcelona",
+          "name": "Barcelona",
+          "full_name": "Futbol Club Barcelona",
+          "city": "Barcelona",
+          "founded": 1899,
+          "stadium": "Camp Nou",
+          "keywords": ["Barcelona", "Barca", "FCB", "Camp Nou", "Blaugrana"],
+          "social_handles": {
+            "twitter": "@FCBarcelona",
+            "instagram": "fcbarcelona",
+            "reddit": "r/Barca"
+          }
+        },
+        {
+          "id": "atletico_madrid",
+          "name": "Atlético Madrid",
+          "full_name": "Club Atlético de Madrid",
+          "city": "Madrid",
+          "founded": 1903,
+          "stadium": "Wanda Metropolitano",
+          "keywords": ["Atletico Madrid", "Atleti", "Los Rojiblancos"],
+          "social_handles": {
+            "twitter": "@Atleti",
+            "instagram": "atleticodemadrid",
+            "reddit": "r/atletico"
+          }
+        }
+      ]
+    },
+    "serie_a": {
+      "name": "Serie A",
+      "country": "Italy",
+      "season": "2024-25",
+      "clubs": [
+        {
+          "id": "juventus",
+          "name": "Juventus",
+          "full_name": "Juventus Football Club",
+          "city": "Turin",
+          "founded": 1897,
+          "stadium": "Allianz Stadium",
+          "keywords": ["Juventus", "Juve", "Bianconeri", "Old Lady"],
+          "social_handles": {
+            "twitter": "@juventusfc",
+            "instagram": "juventus",
+            "reddit": "r/Juve"
+          }
+        },
+        {
+          "id": "ac_milan",
+          "name": "AC Milan",
+          "full_name": "Associazione Calcio Milan",
+          "city": "Milan",
+          "founded": 1899,
+          "stadium": "San Siro",
+          "keywords": ["AC Milan", "Milan", "Rossoneri", "San Siro"],
+          "social_handles": {
+            "twitter": "@acmilan",
+            "instagram": "acmilan",
+            "reddit": "r/ACMilan"
+          }
+        },
+        {
+          "id": "inter_milan",
+          "name": "Inter Milan",
+          "full_name": "Football Club Internazionale Milano",
+          "city": "Milan",
+          "founded": 1908,
+          "stadium": "San Siro",
+          "keywords": ["Inter Milan", "Inter", "Nerazzurri"],
+          "social_handles": {
+            "twitter": "@Inter",
+            "instagram": "inter",
+            "reddit": "r/FCInterMilan"
+          }
+        }
+      ]
+    },
+    "bundesliga": {
+      "name": "Bundesliga",
+      "country": "Germany",
+      "season": "2024-25",
+      "clubs": [
+        {
+          "id": "bayern_munich",
+          "name": "Bayern Munich",
+          "full_name": "FC Bayern München",
+          "city": "Munich",
+          "founded": 1900,
+          "stadium": "Allianz Arena",
+          "keywords": ["Bayern Munich", "Bayern", "FCB", "Die Roten"],
+          "social_handles": {
+            "twitter": "@FCBayern",
+            "instagram": "fcbayern",
+            "reddit": "r/fcbayern"
+          }
+        },
+        {
+          "id": "borussia_dortmund",
+          "name": "Borussia Dortmund",
+          "full_name": "Ballspielverein Borussia 09 Dortmund",
+          "city": "Dortmund",
+          "founded": 1909,
+          "stadium": "Signal Iduna Park",
+          "keywords": ["Borussia Dortmund", "Dortmund", "BVB", "Die Borussen"],
+          "social_handles": {
+            "twitter": "@BVB",
+            "instagram": "bvb09",
+            "reddit": "r/borussiadortmund"
+          }
+        }
+      ]
+    },
+    "ligue_1": {
+      "name": "Ligue 1",
+      "country": "France",
+      "season": "2024-25",
+      "clubs": [
+        {
+          "id": "psg",
+          "name": "PSG",
+          "full_name": "Paris Saint-Germain Football Club",
+          "city": "Paris",
+          "founded": 1970,
+          "stadium": "Parc des Princes",
+          "keywords": ["PSG", "Paris Saint-Germain", "Paris", "Les Parisiens"],
+          "social_handles": {
+            "twitter": "@PSG_English",
+            "instagram": "psg",
+            "reddit": "r/psg"
+          }
+        },
+        {
+          "id": "marseille",
+          "name": "Marseille",
+          "full_name": "Olympique de Marseille",
+          "city": "Marseille",
+          "founded": 1899,
+          "stadium": "Stade Vélodrome",
+          "keywords": ["Marseille", "OM", "Olympique", "Les Phocéens"],
+          "social_handles": {
+            "twitter": "@OM_English",
+            "instagram": "olympiquedemarseille",
+            "reddit": "r/olympiquedemarseille"
+          }
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2025-06-11",
+    "total_leagues": 5,
+    "total_clubs": 15,
+    "expansion_ready": true
+  }
+}
